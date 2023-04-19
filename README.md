@@ -70,8 +70,9 @@
 </div>
 
 ###
-
-  <li align="left"><h3>🕹️ Connect with me</h3></li>
+<h3>
+  <li align="left">🕹️ Connect with me</li>
+</h3>
 
 ###
 
