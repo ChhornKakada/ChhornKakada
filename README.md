@@ -10,7 +10,15 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently learning DevOps, Full state developer, leadership skill.<br>🎯 Goals: Java Engineer.<br>🎲 Fun fact: write down​ my feelings in a journal.<br>🖤 Hobby: coding, reading, writing, drawing, gym.</p>
+<p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently learning DevOps, Full stack developer, Leadership skill.<br>🎯 Goals: Java Engineer.<br>🎲 Fun fact: write down​ my feelings in a journal.<br>🖤 Hobby: coding, reading, writing, drawing, gym.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChhornKakada&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChhornKakada&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ChhornKakada&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
 
@@ -59,11 +67,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ChhornKakada/ChhornKakada/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h2 align="left">Find me more</h2>
+<h2 align="left">Connect with me</h2>
 
 ###
 
