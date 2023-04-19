@@ -22,15 +22,7 @@
 
 ###
 
-<h2 align="left"></h2>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-<h3 align="left">🖥️ I code with</h3>
+<h2 align="left">🖥️ I code with</h2>
 
 ###
 
@@ -48,7 +40,7 @@
 
 ###
 
-<h3 align="left">🔥Framework</h3>
+<h2 align="left">🔥Framework</h2>
 
 ###
 
@@ -61,7 +53,7 @@
 
 ###
 
-<h3 align="left">🛠️ IDE, tool and more</h3>
+<h2 align="left">🛠️ IDE, tool and more</h2>
 
 ###
 
@@ -75,7 +67,7 @@
 
 ###
 
-<h3 align="left">🕹️ Connect with me</h3>
+<h2 align="left">🕹️ Connect with me</h2>
 
 ###
 
