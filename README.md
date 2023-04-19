@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="left"><li> Framework</li></h3>
+<h3 align="left"><li>Framework</li></h3>
 
 ###
 
@@ -57,7 +57,7 @@
 
 ###
 
-<h3 align="left"> <li> IDE, tool and more </li></h3>
+<h3 align="left"> <li>IDE, tool and more </li></h3>
 
 ###
 
