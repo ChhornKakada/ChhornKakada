@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">🖥️ I code with</h3>
+<h3 align="left"> <li>Programming / Make up</li></h3>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="left">🔥Framework</h3>
+<h3 align="left"><li> Framework</li></h3>
 
 ###
 
@@ -57,7 +57,7 @@
 
 ###
 
-<h3 align="left">🛠️ IDE, tool and more</h3>
+<h3 align="left"> <li> IDE, tool and more </li></h3>
 
 ###
 
@@ -71,7 +71,7 @@
 
 ###
 <h3>
-  <li align="left">🕹️ Connect with me</li>
+  <li align="left">Connect with me</li>
 </h3>
 
 ###
