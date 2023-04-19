@@ -71,7 +71,7 @@
 
 ###
 
-<h3 align="left">🕹️ Connect with me</h3>
+<ul align="left">🕹️ Connect with me</ul>
 
 ###
 
