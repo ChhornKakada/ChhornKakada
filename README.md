@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is CHHORN KAKADA and I'm a computer science student at Institute of Technology of Cambodia.</p>
+<p align="left">My name is CHHORN KAKADA and I am a recent graduate in Computer Science from the Institute of Technology of Cambodia.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently learning DevOps, Full stack developer, Leadership skill.<br>🎯 Goals: Java Engineer.<br>🎲 Fun fact: write down​ my feelings in a journal.<br>🖤 Hobby: coding, reading, writing, drawing, gym.</p>
+<p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently learning DevOps, Full stack developer, Leadership skill.<br>🎯 Goals: Java Engineer.<br>🎲 Fun fact: write journal.<br>🖤 Hobby: coding, reading, writing, drawing, gym.</p>
 
 ###
 
