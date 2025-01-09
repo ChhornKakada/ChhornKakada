@@ -2,8 +2,10 @@
 
 ###
 
-<p align="left">My name is CHHORN KAKADA and I am a recent graduate in Computer Science \([Department of Information and Communication Engineering
-](https://gic.itc.edu.kh/)\) from [Institute of Technology of Cambodia](https://itc.edu.kh/).
+<p align="left">
+  My name is CHHORN KAKADA, and I am a recent graduate in Computer Science 
+  (<a href="https://gic.itc.edu.kh/">Department of Information and Communication Engineering</a>) 
+  from <a href="https://itc.edu.kh/">Institute of Technology of Cambodia</a>.
 </p>
 
 ###
