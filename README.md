@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently learning DevOps, Full stack developer, Leadership skill.<br>🎯 Goals: Product manager.<br>🎲 Fun fact: write journal.<br>🖤 Hobby: coding, reading, writing, drawing, gym.<br>🧩 New Interested: writing novel, mental health counselor.</p>
+<p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently learning DevOps, Full stack developer, Leadership skill.<br>🎯 Goals: Product manager.<br>🎲 Fun fact: write journal.<br>🖤 Hobby: coding, reading, writing, drawing, gym.<br>🧩 New Interested: social work activities, mental health problem.</p>
 
 ###
 
