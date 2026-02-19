@@ -5,7 +5,7 @@ You can call me **Sacda** — it's my nickname...
 
 I design and build end-to-end applications—from backend infrastructure ⚙️ and data modeling 📊 to polished user interfaces 🎨. I care about scalability, maintainability, and crafting software that is both powerful under the hood and intuitive on the surface.
 
-## What I do
+## 🔥 What I do
 - 🌐 **Full-Stack Development** – Building scalable frontend and backend systems
 - 🎨 **User-Centered Design** – Creating smooth, intuitive, high-performance experiences
 - 🧠 **Clean Architecture** – Writing maintainable and efficient application logic
@@ -18,10 +18,10 @@ I design and build end-to-end applications—from backend infrastructure ⚙️ 
 - 🎼 **KhmerSheetMusic** – Digital sheet music app for Cambodian musicians. *(Android now live on [Google Play](https://play.google.com/store/apps/details?id=com.pheak.khmersheetmusic))*
 
 ## 🛠 Tech & Tools
-- **Languages** – Dart, JavaScript, TypeScript
-- **Frameworks** – NextJS, NestJS, Flutter
-- **Databases** – MongoDB, MySql, Postgres, Turso
-- **Other** – Machine Learning, Figma
+- **🧑‍💻 Languages** – Dart, JavaScript, TypeScript
+- **⚙️ Frameworks** – Next.js, NestJS, Flutter
+- **🗃️ Databases** – MongoDB, MySQL, PostgreSQL, Turso
+- **🚀 Other** – Machine Learning, Figma
 
 ## 📬 Say Hi to Me
 I’m open to collaborating on meaningful and impactful projects.
