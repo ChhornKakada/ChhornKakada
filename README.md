@@ -13,9 +13,12 @@ I design and build end-to-end applications—from backend infrastructure ⚙️ 
 - 🧩 **Modern Tech Stack** – Turning ideas into production-ready solutions
 
 ## 📱 Featured Projects
-- 🎸 **KhmerChords** – Khmer guitar chords app for musicians and learners. *(Android now live on [Google Play](https://play.google.com/store/apps/details?id=com.vh.khmerchords))*
-- 🎵 **KhmerWorship** – Worship songs platform for Khmer-speaking communities. *(Android now live on [Google Play](https://play.google.com/store/apps/details?id=com.vh.khmerworship))*
-- 🎼 **KhmerSheetMusic** – Digital sheet music app for Cambodian musicians. *(Android now live on [Google Play](https://play.google.com/store/apps/details?id=com.pheak.khmersheetmusic))*
+- 🎸 **KhmerChords**
+  Khmer guitar chords app for musicians and learners. *(Android now live on [Google Play](https://play.google.com/store/apps/details?id=com.vh.khmerchords))*
+- 🎵 **KhmerWorship**
+  Worship songs platform for Khmer-speaking communities. *(Android now live on [Google Play](https://play.google.com/store/apps/details?id=com.vh.khmerworship))*
+- 🎼 **KhmerSheetMusic**
+  Digital sheet music app for Cambodian musicians. *(Android now live on [Google Play](https://play.google.com/store/apps/details?id=com.pheak.khmersheetmusic))*
 
 ## 🛠 Tech & Tools
 - **🧑‍💻 Languages** – Dart, JavaScript, TypeScript
