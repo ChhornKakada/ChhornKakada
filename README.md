@@ -1,26 +1,29 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey there, I'm Chhorn Kakada 👋
+You can call me **Sacda** — it's my nickname...
 
-###
+*💻 Full-Stack Developer • 🛠 Builder • 🧩 Problem Solver*
 
-<p align="left">
-  My name is CHHORN KAKADA, and I am a recent graduate in Computer Science 
-  (<a href="https://gic.itc.edu.kh/">Department of Information and Communication Engineering</a>) 
-  from <a href="https://itc.edu.kh/">Institute of Technology of Cambodia</a>.
-</p>
+I design and build end-to-end applications—from backend infrastructure ⚙️ and data modeling 📊 to polished user interfaces 🎨. I care about scalability, maintainability, and crafting software that is both powerful under the hood and intuitive on the surface.
 
-###
+## What I do
+- 🌐 **Full-Stack Development** – Building scalable frontend and backend systems
+- 🎨 **User-Centered Design** – Creating smooth, intuitive, high-performance experiences
+- 🧠 **Clean Architecture** – Writing maintainable and efficient application logic
+- 📱 **Flutter Development** – Developing cross-platform mobile apps
+- 🧩 **Modern Tech Stack** – Turning ideas into production-ready solutions
 
-<h2 align="left">About me</h2>
+## 📱 Featured Projects
+- 🎸 **KhmerChords** – Khmer guitar chords app for musicians and learners. *(Android now live on [Google Play](https://play.google.com/store/apps/details?id=com.vh.khmerchords))*
+- 🎵 **KhmerWorship** – Worship songs platform for Khmer-speaking communities. *(Android now live on [Google Play](https://play.google.com/store/apps/details?id=com.vh.khmerworship))*
+- 🎼 **KhmerSheetMusic** – Digital sheet music app for Cambodian musicians. *(Android now live on [Google Play](https://play.google.com/store/apps/details?id=com.pheak.khmersheetmusic))*
 
-###
+## 🛠 Tech & Tools
+- **Languages** – Dart, JavaScript, TypeScript
+- **Frameworks** – NextJS, NestJS, Flutter
+- **Databases** – MongoDB, MySql, Postgres, Turso
+- **Other** – Machine Learning, Figma
 
-<p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently learning DevOps, Full stack developer, Leadership skill.<br>🎯 Goals: Product manager.<br>🎲 Fun fact: write journal.<br>🖤 Hobby: coding, reading, writing, drawing, gym.<br>🧩 New Interested: social work activities, mental health problem.</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChhornKakada&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChhornKakada&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="120" alt="languages graph"  />
-</div>
-
-###
+## 📬 Say Hi to Me
+I’m open to collaborating on meaningful and impactful projects.
+- 📧 **Email** – chhornkakada@gmail.com
+- 💼 **LinkedIn** – [Kakada Chhorn](https://www.linkedin.com/in/kakadachhorn/)
